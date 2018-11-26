@@ -1,0 +1,9 @@
+#wrapper{
+    width: 60%;
+    margin: auto;
+}
+
+#products{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
